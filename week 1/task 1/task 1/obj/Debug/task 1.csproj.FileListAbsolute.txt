@@ -5,3 +5,10 @@ C:\Users\g\source\repos\task 1\task 1\obj\Debug\task 1.csprojAssemblyReference.c
 C:\Users\g\source\repos\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
 C:\Users\g\source\repos\task 1\task 1\obj\Debug\task 1.exe
 C:\Users\g\source\repos\task 1\task 1\obj\Debug\task 1.pdb
+C:\Users\g\Desktop\PP2\week 1\task 1\task 1\bin\Debug\task 1.exe.config
+C:\Users\g\Desktop\PP2\week 1\task 1\task 1\bin\Debug\task 1.exe
+C:\Users\g\Desktop\PP2\week 1\task 1\task 1\bin\Debug\task 1.pdb
+C:\Users\g\Desktop\PP2\week 1\task 1\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+C:\Users\g\Desktop\PP2\week 1\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+C:\Users\g\Desktop\PP2\week 1\task 1\task 1\obj\Debug\task 1.exe
+C:\Users\g\Desktop\PP2\week 1\task 1\task 1\obj\Debug\task 1.pdb

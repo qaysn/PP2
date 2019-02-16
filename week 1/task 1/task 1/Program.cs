@@ -14,30 +14,35 @@ namespace task_1
             n = int.Parse(Console.ReadLine());
             int[] a = new int[n];
             for (int i = 0; i < n; i++)
+
             {
                 a[i] = int.Parse(Console.ReadLine());
             }
             int cnt = 0;
-            bool flag = false;   //  если flag  не prime то его флаг станет true , и мы выведем те члены массива
+            bool qwe = false;   //  если qwe  не prime то его флаг станет true , и мы выведем те члены массива
                                  //у кторых флаг false
 
-            for (int i = 0; i < n; i++)
+            for(int i = 0; i < n; i++)
             {
-                flag = false;
-                if (a[i] <= 1) continue;   //если член массива меньше или равен еднице то их не расматриваем
+                qwe = false;
+                if (a[i] <= 1) continue;
                 else
                     for (int j = 2; j < a[i]; j++)
-                        if (a[i] % j == 0) flag = true; //если член массива не prime то вот тут он станет true
-                if (flag == false) cnt++;           //считаем сколько у нас prime-ов
+                       if (a[i] % j == 0) qwe = true;
+                if (qwe == false) cnt++;
             }
-            Console.WriteLine(cnt);//cnt this is count of prime number
+
+
+
+
+            Console.WriteLine(cnt);//Cnt это количество простых чисел
             for (int i = 0; i < n; i++)
             {
-                flag = false;
+                qwe = false;
                 if (a[i] <= 1) continue;
                 for (int j = 2; j < a[i]; j++)
-                    if (a[i] % j == 0) flag = true;
-                if (flag == false) Console.Write(a[i] + " "); //выводим все prime цифры по строку
+                    if (a[i] % j == 0) qwe = true;
+                if (qwe == false) Console.Write(a[i] + " "); //выводим все prime цифры по строку
             }
             Console.ReadKey();
         }

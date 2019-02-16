@@ -4,3 +4,10 @@ C:\Users\g\source\repos\task 2\task 2\bin\Debug\task 2.exe
 C:\Users\g\source\repos\task 2\task 2\bin\Debug\task 2.pdb
 C:\Users\g\source\repos\task 2\task 2\obj\Debug\task 2.exe
 C:\Users\g\source\repos\task 2\task 2\obj\Debug\task 2.pdb
+C:\Users\g\Desktop\PP2\week 1\task 2\task 2\bin\Debug\task 2.exe.config
+C:\Users\g\Desktop\PP2\week 1\task 2\task 2\bin\Debug\task 2.exe
+C:\Users\g\Desktop\PP2\week 1\task 2\task 2\bin\Debug\task 2.pdb
+C:\Users\g\Desktop\PP2\week 1\task 2\task 2\obj\Debug\task 2.csprojAssemblyReference.cache
+C:\Users\g\Desktop\PP2\week 1\task 2\task 2\obj\Debug\task 2.csproj.CoreCompileInputs.cache
+C:\Users\g\Desktop\PP2\week 1\task 2\task 2\obj\Debug\task 2.exe
+C:\Users\g\Desktop\PP2\week 1\task 2\task 2\obj\Debug\task 2.pdb
